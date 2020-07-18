@@ -1,6 +1,7 @@
-#include 'optional.h"
+#include "optional.h"
 #include <iostream>
 #include <map>
+#include <string>
 
 
 std::ostream& operator<<(std::ostream& os, const Point& p)
